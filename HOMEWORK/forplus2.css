@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.div{
+    background-color: #090F1B;
+    width: 100%;
+    height: 80px;
+    padding: 10px;
+}
+.code{
+    color: white;
+    margin-left: 50%;
+}
+.code span{
+    color:#51c981;
+}
+.text{
+    list-style: none;
+    display: flex;
+    color: white;
+    margin-left: 39%;
+    gap: 40px;
+    margin-top: -10px;
+}
+.home{
+    background: #47f18b ;
+    width: 100px;
+    height: 25px;
+    border: none;
+    padding-left: 30px;
+    color: whitesmoke;
+    border-radius: 20px;
+    margin-top: -5px;
+
+}

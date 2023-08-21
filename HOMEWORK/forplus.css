@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.div{
+    width: 100%;
+    height: 50px;
+    background: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 700px;
+}
+.text{
+    color: white;
+}
+.home{
+    display: flex;
+    list-style: none;
+    color: white;
+    gap: 40px;
+}
+.contact{
+    background: rgb(121, 181, 241);
+    border: none;
+    border-radius: 20px;
+    width: 80px;
+    height: 20px;
+    color: white;
+    
+}
